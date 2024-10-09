@@ -8,7 +8,7 @@ import {assets} from '../../assets/assets'
 
 
 function Orders() {
-  const url='http://localhost:4000'
+  const url='https://food-delivery-app-backend-omd9.onrender.com'
 
   const [orders,setOrders]=useState([]);
 
