@@ -8,7 +8,7 @@ import { toast } from 'react-toastify'
 function Edit() {
 
     const {id}=useParams()
-    const url='http://localhost:4000';
+    const url='https://food-delivery-app-backend-omd9.onrender.com';
     const[image,setImage]=useState(false)
 
     const navigate=useNavigate();
