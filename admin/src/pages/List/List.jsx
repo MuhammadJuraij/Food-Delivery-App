@@ -9,7 +9,7 @@ function List() {
 
 
 
-const url='http://localhost:4000'
+const url='https://food-delivery-app-backend-omd9.onrender.com'
 const [list,setList]=useState([]);
 
 
